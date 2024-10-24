@@ -2,7 +2,7 @@
 # Please first check nvcc version and 
 # make sure it satisfies the vLLM's 
 # requirements.
-vllm==0.2.6
+vllm==0.5.5
 tqdm
 spacy
 scikit-learn
